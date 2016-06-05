@@ -1,0 +1,20 @@
+Use Cases
+Use case 1: User requests weather for a city. User chooses a city from the dropdown. On selecting the city the weather information on the screen refreshes.
+
+Data Source
+A file cities.db contains all cities, this file is created in the home directory of the web server on startup. This is a the db file for all cities.
+
+UML
+
+Service Class Diagram
+
+
+
+
+
+
+
+
+
+Architecture
+

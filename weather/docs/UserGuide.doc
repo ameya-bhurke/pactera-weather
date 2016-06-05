@@ -1,0 +1,13 @@
+Building the application
+Please build the application using mvn clean install
+
+Running the application
+Deploy war in a spring/servlet container. You could also import project into eclipse and use the web server in eclipse. Start the container.
+
+Goto: http://localhost:8080/pactera/CityWeather
+
+Screenshots
+This is a single page application. The page looks like the following initially
+
+Please select a city from the dropdown and wait for the page to load the weather information.
+
